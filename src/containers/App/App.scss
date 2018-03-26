@@ -1,0 +1,11 @@
+@import '../../styles/colors.scss';
+
+.app {
+  text-align: center;
+  &__header {
+    background-color: $grayDark;
+    height: auto;
+    padding: 300px;
+    color: white;
+  }
+}
