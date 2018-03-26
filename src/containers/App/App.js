@@ -8,6 +8,7 @@ class App extends Component {
     return (
       <div className="app">
         <header className="app__header">
+          <div className='app__coming_soon'>Coming soon...</div>
           <Logo />
         </header>
       </div>
